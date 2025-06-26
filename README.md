@@ -1,4 +1,4 @@
-# Adatelemzes-Fungi_Classification
+# Adatelemzes-Fungi-Classification
 Az Adatelemzés mélytanulási módszerekkel nevű tárgyhoz készített csoportos házi feladat megoldása
 
 ## Feladat
